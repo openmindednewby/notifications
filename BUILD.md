@@ -13,7 +13,7 @@ This guide explains how to build, pack, and publish this NuGet package.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Notifications.git
+git clone https://github.com/openmindednewby/Notifications.git
 cd Notifications
 ```
 
@@ -276,8 +276,8 @@ Make sure symbols are enabled in `Directory.Build.props`:
 
 ## 💬 Support
 
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/Notifications/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/Notifications/discussions)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/openmindednewby/Notifications/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/openmindednewby/Notifications/discussions)
 - 📦 **NuGet**: [NuGet Package Page](https://www.nuget.org/packages/MultiTenant.NotificationProviders)
 
 ---
